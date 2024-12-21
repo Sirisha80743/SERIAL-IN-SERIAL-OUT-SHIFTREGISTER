@@ -35,6 +35,10 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 5.For different input combinations generate the timing diagram.
 
+**Truth Table**
+
+![ex 10 timing diagram](https://github.com/user-attachments/assets/1c945f19-726f-418d-9cb6-1565d4aff8de)
+
 
 **PROGRAM**
 
@@ -65,10 +69,10 @@ endmodule
 
 ![ex 10](https://github.com/user-attachments/assets/12cdb9e3-96e5-4df1-9353-f518a2c2cec6)
 
-**TIMING DIGRAMS FOR SISO Shift Register**
+**TIMING DIAGRAM FOR SISO Shift Register**
 
 ![ex 10 wave](https://github.com/user-attachments/assets/a7ef7434-b803-432e-b99d-75632ef6dd3e)
 
-**RESULTS**
+**RESULT**
 
 SISO Shift Register using verilog and validating their functionality using their functional tables is verified.
